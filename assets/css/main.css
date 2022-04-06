@@ -3030,14 +3030,11 @@
 			display: inline-block;
 			margin-left: 4em;
 			padding: 0.65em;
-			border-radius: 100%;
-			border: solid 1px;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
-				width: 16em;
+				width: 18em;
 			}
 
 		@media screen and (max-width: 980px) {
